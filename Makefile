@@ -36,8 +36,8 @@ get_craptev1:
 
 get_crapto1:
 	#wget https://doc-08-3g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/5didg387u3mfibth4siovr71tb4v7lhn/1531058400000/14354694460147819648/*/0Bwg207dj_8XxamNCRTBTMjN4alBsbWcySlVEQ1dlYmpZQmRR?e=download
-	mkdir crapto1-v3.3
-	tar Jxvf crapto1-v3.3.tar.xz -C crapto1-v3.3
+	#mkdir crapto1-v3.3
+	tar Jxvf crapto1-v3.3.tar.xz 
 
 # Windows cross compilation
 MINGW32 = i686-w64-mingw32-gcc
